@@ -8,7 +8,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
 - [Active Directory Home Lab](https://github.com/MarkElizondo/Network-Protocol-Analyzer-Tools)
-- [Hello World](https://coursera.org/share/7c2da8a4e38e5d0302f6a6b329f4998b)
 
 <h2>A little about myself</h2>
 
